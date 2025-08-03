@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "A Guide to Asynchronous Programming in Python",
+    "slug": "guide-to-async-python",
+    "author": "pyMaster",
+    "category": "Python",
+    "tags": ["python", "asyncio", "concurrency", "performance"],
+    "published_date": "2025-07-30",
+    "thumbnail": "https://images.unsplash.com/photo-1555066931-4365d1469c9b",
+    "content": "Unlock the power of concurrent programming in Python with asyncio. This guide covers the basics of async/await, event loops, and more...",
+    "reading_time": "8 min"
+  },
+  {
+    "id": 2,
+    "title": "Containerizing Your First App with Docker",
+    "slug": "containerizing-app-with-docker",
+    "author": "devOpsDude",
+    "category": "DevOps",
+    "tags": ["docker", "containers", "devops", "deployment"],
+    "published_date": "2025-07-28",
+    "thumbnail": "https://images.unsplash.com/photo-1605745341112-85965b153969",
+    "content": "Learn how to package your applications into portable containers using Docker. We'll walk through creating a Dockerfile and running your first container...",
+    "reading_time": "6 min"
+  },
+  {
+    "id": 3,
+    "title": "Building a Recommendation Engine with Scikit-Learn",
+    "slug": "recommendation-engine-scikit-learn",
+    "author": "dataDiva",
+    "category": "AI/ML",
+    "tags": ["machine learning", "python", "scikit-learn", "data science"],
+    "published_date": "2025-07-25",
+    "thumbnail": "https://images.unsplash.com/photo-1531297484001-80022131c5a9",
+    "content": "This tutorial will guide you through the process of building a content-based recommendation system using Python and the Scikit-Learn library...",
+    "reading_time": "12 min"
+  },
+  {
+    "id": 4,
+    "title": "SQL vs. NoSQL: Choosing the Right Database",
+    "slug": "sql-vs-nosql-database-choice",
+    "author": "dbAdmin",
+    "category": "Databases",
+    "tags": ["sql", "nosql", "database", "architecture"],
+    "published_date": "2025-07-22",
+    "thumbnail": "https://images.unsplash.com/photo-1593433399757-882411357b98",
+    "content": "Understand the key differences between SQL and NoSQL databases to make an informed decision for your next project's data storage needs...",
+    "reading_time": "7 min"
+  },
+  {
+    "id": 5,
+    "title": "Advanced CSS Grid Layouts",
+    "slug": "advanced-css-grid-layouts",
+    "author": "cssWizard",
+    "category": "Frontend",
+    "tags": ["css", "css-grid", "frontend", "web design"],
+    "published_date": "2025-07-20",
+    "thumbnail": "https://images.unsplash.com/photo-1522542550221-35fd19575a2d",
+    "content": "Move beyond the basics of CSS Grid and explore complex, responsive layouts with features like minmax(), auto-fit, and named grid areas...",
+    "reading_time": "9 min"
+  },
+  {
+    "id": 6,
+    "title": "Getting Started with Go for Backend Development",
+    "slug": "getting-started-with-golang",
+    "author": "goGopher",
+    "category": "Backend",
+    "tags": ["go", "golang", "backend", "api"],
+    "published_date": "2025-07-18",
+    "thumbnail": "https://images.unsplash.com/photo-1629904853716-f0bc54eea481",
+    "content": "Discover why Go is a popular choice for backend services. This article covers Go's syntax, concurrency model, and building a simple web server...",
+    "reading_time": "10 min"
+  },
+  {
+    "id": 7,
+    "title": "CI/CD Pipelines Explained with GitHub Actions",
+    "slug": "ci-cd-github-actions",
+    "author": "devOpsDude",
+    "category": "DevOps",
+    "tags": ["ci-cd", "github", "devops", "automation"],
+    "published_date": "2025-07-15",
+    "thumbnail": "https://images.unsplash.com/photo-1580894732444-8ecded794825",
+    "content": "Automate your build, test, and deployment workflows using GitHub Actions. We'll set up a simple CI/CD pipeline for a Node.js application...",
+    "reading_time": "7 min"
+  },
+  {
+    "id": 8,
+    "title": "An Introduction to GraphQL for REST Developers",
+    "slug": "intro-graphql-for-rest-devs",
+    "author": "apiExpert",
+    "category": "APIs",
+    "tags": ["graphql", "api", "rest", "nodejs"],
+    "published_date": "2025-07-11",
+    "thumbnail": "https://images.unsplash.com/photo-1627398242454-45a1465c2479",
+    "content": "Coming from a REST background? This guide explains the core concepts of GraphQL, its advantages, and how to start building your first GraphQL API...",
+    "reading_time": "8 min"
+  },
+  {
+    "id": 9,
+    "title": "State Management in Vue 3 with Pinia",
+    "slug": "vue-3-state-management-pinia",
+    "author": "vueNinja",
+    "category": "Vue.js",
+    "tags": ["vue", "pinia", "state management", "javascript"],
+    "published_date": "2025-07-09",
+    "thumbnail": "https://images.unsplash.com/photo-1633356122544-f134324a6cee",
+    "content": "Pinia is the new official state management library for Vue. Learn how its simple and intuitive API can help you manage your application's state...",
+    "reading_time": "5 min"
+  },
+  {
+    "id": 10,
+    "title": "Optimizing Web Performance: Core Web Vitals",
+    "slug": "optimizing-core-web-vitals",
+    "author": "perfPro",
+    "category": "Performance",
+    "tags": ["performance", "web vitals", "seo", "frontend"],
+    "published_date": "2025-07-05",
+    "thumbnail": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0",
+    "content": "Improve your user experience and search engine ranking by focusing on Core Web Vitals. We'll cover LCP, FID, and CLS and how to improve them...",
+    "reading_time": "7 min"
+  }
+]
